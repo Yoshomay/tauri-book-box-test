@@ -1,0 +1,16 @@
+{
+  "name": "tauri-book-box-test",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "tauri": "tauri",
+    "build": "vite build",
+    "rls": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.9.1",
+    "vite": "^7.1.12"
+  }
+}
