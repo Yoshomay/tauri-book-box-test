@@ -7,7 +7,7 @@ A test app to get used to Tauri, desktop version of the [Book Box Generator from
 To build you'll have to have tauri setup on your system by going through [this page](https://v2.tauri.app/start/prerequisites/)
     
 ## For Linux builds
-You must be running Linux/wsl to compile, either that or use something like docker or github actions\
+You must be running Linux/wsl to compile, either that or use something like docker or github actions
     
 Create the node project\
 `npm install`
@@ -24,7 +24,7 @@ The .appimage will be located in `/src-tauri/target/release/bundle/appimage/`
 
 
 ## For Windows builds
-Like with the Linux builds, you have to be running Windows or something like docker or github actions\
+Like with the Linux builds, you have to be running Windows or something like docker or github actions
     
 Create the node project\
 `npm install`
