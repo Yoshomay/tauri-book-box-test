@@ -1,6 +1,8 @@
 # tauri-book-box-test
 A test app to get used to Tauri, desktop version of the [Book Box Generator from my website](https://www.yoshomay.com/projects/bookBox).
 
+Background made by [Mehdibahrami](https://pixabay.com/illustrations/mountains-landscape-night-6243826/)
+
 ![(Screenshot of the app)](./README_screenshot.png)
 
 # Build instructions
